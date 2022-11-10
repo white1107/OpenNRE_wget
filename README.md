@@ -98,6 +98,13 @@ Note that we have excluded all data and pretrain files for fast deployment. You 
 bash benchmark/download_fewrel.sh
 ```
 
+## wget data の扱い方
+
+本来wget ではいる予定だったものがwget_dataにはいっています。この中のものを
+/root/.opennreに移動させてください
+
+
+
 ## Easy Start
 
 Make sure you have installed OpenNRE as instructed above. Then import our package and load pre-trained models.
