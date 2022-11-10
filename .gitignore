@@ -116,12 +116,6 @@ ckpt
 benchmark/tacred
 *.swp
 
-<<<<<<< HEAD
-# data and pretrain
-pretrain
-benchmark
-!benchmark/*.sh
-!pretrain/*.sh
 
 # test env
 .test
